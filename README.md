@@ -38,7 +38,7 @@
 
 ## 📸 Preview
 
-![Application Preview](images/preview.png)
+![Application Preview](preview.png)
 
 ## 🚀 Quick Start
 
